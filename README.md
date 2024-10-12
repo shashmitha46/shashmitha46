@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi there👋, I'm Shashmitha</h1>
-<h3 align="center">Passionate about AI, ML, and Data Science, blending my love for coding with data-driven insights to build intelligent solutions.</h3>
+<h3 align="center">Passionate about AI, ML, and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashmitha46&label=Profile%20views&color=0e75b6&style=flat" alt="shashmitha46" /> </p>
