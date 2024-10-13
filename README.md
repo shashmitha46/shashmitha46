@@ -4,12 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashmitha46&label=Profile%20views&color=0e75b6&style=flat" alt="shashmitha46" /> </p>
+  
+- 🧑‍🎓 Occupation **Student**
 
-- 🌱 I’m currently learning **Deep learning, Data analysis,**
+- 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **Python, MERN**
+- 💬 Intrested in **Data Science, ML, WEB Development, Gen AI**
 
-- 📫 How to reach me **shashmitha42@gmail.com**
+- 📫 Reach me at **shashmitha42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashmitha46&show_icons=true&locale=en&layout=compact" alt="shashmitha46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashmitha46&" alt="shashmitha46" /></p>
+
+# THANKS FOR VISITING😊 
