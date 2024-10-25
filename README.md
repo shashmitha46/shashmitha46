@@ -11,7 +11,7 @@
 
 - 💬 Intrested in **Data Science, ML, WEB Development, Gen AI**
 
-- 📫 Reach me at **shashmitha42@gmail.com**
+- 📫 Reach me at **itzzshashmitha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
